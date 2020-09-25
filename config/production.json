@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://Markus:Proxiuranus345@cluster0.uhknu.azure.mongodb.net/ssi?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "74ba0149f24143e2b2c5",
+    "githubSecret": "0f5e15844a6c0587b81e1795b999893ad27f9d06"
+}
